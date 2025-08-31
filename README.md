@@ -1,6 +1,6 @@
-# 📂 React File Explorer
+# 📂 React Pdf Viewer
 
-A modern React.js application that simulates a file explorer for PDFs with features like folder navigation, preview in modal, multi-file selection, and downloads. Built with **React Router, Context + useReducer for state management, and TailwindCSS**.
+A modern React.js application that simulates a Pdf Viewer for PDFs with features like folder navigation, preview in modal, multi-file selection, and downloads. Built with **React Router, Context + useReducer for state management, and TailwindCSS**.
 
 ---
 
