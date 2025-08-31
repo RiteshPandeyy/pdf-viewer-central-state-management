@@ -1,0 +1,16 @@
+[
+  {
+    "folder": "Badminton",
+    "files": [
+      { "id": 1, "name": "Match 1", "path": "/pdf/Badminton/match1.pdf" },
+      { "id": 2, "name": "Match 2", "path": "/pdf/Badminton/match2.pdf" }
+    ]
+  },
+  {
+    "folder": "Chess",
+    "files": [
+      { "id": 3, "name": "Match 1", "path": "/pdf/Chess/match1.pdf" },
+      { "id": 4, "name": "Match 2", "path": "/pdf/Chess/match2.pdf" }
+    ]
+  }
+]
